@@ -95,7 +95,6 @@ const patronTiers: PatronTier[] = [
       '1x setkání s dramaturgyní a debata nad uměleckými tématy (1 osoba)',
       '1x setkání s autory knih či ilustrací v rámci scénického čtení a výstavy',
       'Přednostní možnost rezervace vstupenek na vybraná představení (veřejná generálka, premiéra, veřejné čtvrtky)',
-      'Osobní setkání a reflexe (přechodný stupeň k major donors, více se starat o osobní péči)',
     ],
   },
   {
