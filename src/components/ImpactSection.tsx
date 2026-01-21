@@ -5,20 +5,20 @@ export function ImpactSection() {
     {
       icon: Users,
       number: '50 000+',
-      label: 'Diváků ročně',
-      description: 'Od školních představení po zahraniční zájezdy'
+      label: 'diváků ročně',
+      description: 'od školních představení po zahraniční zájezdy'
     },
     {
       icon: Sparkles,
       number: '4',
-      label: 'Premiéry za sezónu',
-      description: 'Od klasiky po nová díla'
+      label: 'premiéry za sezónu',
+      description: 'od klasiky po nová díla'
     },
     {
       icon: GraduationCap,
       number: '29 000+',
-      label: 'Žáků a studentů',
-      description: 'Z celého Jihomoravského kraje'
+      label: 'žáků a studentů ročně',
+      description: 'z celého Jihomoravského kraje'
     }
   ];
 
