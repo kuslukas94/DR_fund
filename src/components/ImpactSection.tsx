@@ -4,7 +4,7 @@ export function ImpactSection() {
   const impacts = [
     {
       icon: Users,
-      number: '50 000+',
+      number: '59 000+',
       label: 'diváků ročně',
       description: 'od školních představení po zahraniční zájezdy'
     },
