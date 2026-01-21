@@ -271,8 +271,10 @@ export function CorporatePartnershipPage() {
             <div className="bg-purple-50 rounded-lg p-8">
               <h3 className="text-xl font-bold text-gray-900 mb-4">Individuální řešení</h3>
               <p className="text-gray-700 mb-4">
-                Žádné dvě partnerství nemusí být stejné. Rádi s vámi vytvoříme balíček na
-                míru potřebám vaší firmy. Níže uvádíme kategorie, které slouží jako inspirace.
+                Věříme, že nejlepší partnerství vznikají na základě osobního setkání a společného 
+                dialogu. Pokud vás některá z úrovní podpory zaujala nebo máte vlastní představu o 
+                spolupráci, neváhejte nás kontaktovat. Rádi s vámi probereme vaše CSR a marketingové 
+                cíle a navrhneme partnerství, které je bude naplňovat.
               </p>
               <a
                 href="mailto:kus@divadlo-radost.cz"
