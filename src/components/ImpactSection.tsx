@@ -4,7 +4,7 @@ export function ImpactSection() {
   const impacts = [
     {
       icon: Users,
-      number: '55 000+',
+      number: '50 000+',
       label: 'Diváků ročně',
       description: 'Od školních představení po zahraniční zájezdy'
     },
@@ -16,7 +16,7 @@ export function ImpactSection() {
     },
     {
       icon: GraduationCap,
-      number: 'XY+',
+      number: '29 000+',
       label: 'Žáků a studentů',
       description: 'Z celého Jihomoravského kraje'
     }
